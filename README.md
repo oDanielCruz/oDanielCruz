@@ -4,7 +4,7 @@ Hi 👋 My name is Oswaldo Daniel
 Estudiante en Ingenieria en Sistemas
 ------------------------------------
 
-Empecé con la programación a partir de los 17 años gracias a que la preparatoria donde estudiaba tenía la carrera de programación. Empecé con el tema de programación web con HTML, CSS y PHP. Con el tiempo empecé a encontrarle cariño al lenguaje JAVA y es hasta el día de hoy mi lenguaje principal. Soja más
+Empecé con la programación a partir de los 17 años gracias a que la preparatoria donde estudiaba tenía la carrera de programación. Empecé con el tema de programación web con HTML, CSS y PHP. Con el tiempo empecé a encontrarle cariño al lenguaje JAVA y es hasta el día de hoy mi lenguaje principal.
 
 * 🌍  I'm based in México
 * ✉️  You can contact me at [L18020139@veracruz.tecnm.mx](mailto:L18020139@veracruz.tecnm.mx)
