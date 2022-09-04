@@ -5,7 +5,7 @@ Estudiante en Ingenieria en Sistemas
 ------------------------------------
 
 * 🌍  Radico en México
-* ✉️ Puedes contactarme al correo [L18020139@veracruz.tecnm.mx](mailto:L18020139@veracruz.tecnm.mx)
+* ✉️  Puedes contactarme al correo [L18020139@veracruz.tecnm.mx](mailto:L18020139@veracruz.tecnm.mx)
 * 🧠  Estoy aprendiendo CSS, Javascript
 * ⚡  Me gusta seguir aprendiendo y seguir encontrando temas nuevos.
 
