@@ -4,9 +4,9 @@ Hola 👋 Mi nombre es Oswaldo Daniel
 Estudiante en Ingenieria en Sistemas
 ------------------------------------
 
-* 🌍  I'm based in México
-* ✉️  You can contact me at [L18020139@veracruz.tecnm.mx](mailto:L18020139@veracruz.tecnm.mx)
-* 🧠  I'm learning CSS, Javascript
+* 🌍  Radico en México
+* ✉️ Puedes contactarme al correo [L18020139@veracruz.tecnm.mx](mailto:L18020139@veracruz.tecnm.mx)
+* 🧠  Estoy aprendiendo CSS, Javascript
 * ⚡  Me gusta seguir aprendiendo y seguir encontrando temas nuevos.
 
 <a href="https://www.twitter.com/oDanielCCz" target="_blank" rel="noreferrer"><img
