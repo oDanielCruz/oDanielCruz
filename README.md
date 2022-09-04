@@ -1,4 +1,4 @@
-Hi 👋 My name is Oswaldo Daniel
+Hola 👋 Mi nombre es Oswaldo Daniel
 ===============================
 
 Estudiante en Ingenieria en Sistemas
